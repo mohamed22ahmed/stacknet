@@ -1,0 +1,38 @@
+.why-we {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-color: rgb(245, 249, 250);
+    margin-top: 15rem;
+}
+.glance-card {
+    height: 180px;
+    width: 338px;
+    background-color: rgb(255, 255, 255);
+    border-style: dotted;
+    border-width: 1px;
+    border-color: rgb(171, 222, 231);
+    border-radius: 6px;
+    transition: box-shadow 300ms ease 0s;
+}
+
+.glance-name {
+    font-size: 20px;
+    color: rgb(188, 142, 204);
+    letter-spacing: 1px;
+    line-height: 1;
+    border-radius: 0px;
+}
+.glance-num {
+    font-size: 46px;
+    font-weight: 300;
+    color: rgb(71, 71, 71);
+    line-height: 1.5;
+}
+.glance-img {
+    height: 98px;
+    width: 98px;
+    left: 0px;
+    top: 0px;
+    background-color: rgba(171, 222, 231, 0.5);
+    border-radius: 300px;
+}
